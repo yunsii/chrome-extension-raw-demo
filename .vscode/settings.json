@@ -1,0 +1,9 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["manifest.json"],
+      // ref: https://github.com/GoogleChrome/chrome-types/issues/7#issuecomment-986041170
+      "url": "https://json.schemastore.org/chrome-manifest"
+    }
+  ]
+}
